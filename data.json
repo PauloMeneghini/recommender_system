@@ -1,0 +1,2239 @@
+{
+   "Usuarios":[
+      {
+         "idUsuarios":1,
+         "nome":"Ana Souza",
+         "data_nascimento":"1996-06-02",
+         "genero":"M",
+         "email":"ana.souza@gmail.com",
+         "senha":"senha1",
+         "data_cadastro":"2024-01-27",
+         "mapeamento_perfil":"inativo",
+         "enderecos":1
+      },
+      {
+         "idUsuarios":2,
+         "nome":"Bruno Lima",
+         "data_nascimento":"1977-10-08",
+         "genero":"M",
+         "email":"bruno.lima@gmail.com",
+         "senha":"senha2",
+         "data_cadastro":"2024-07-07",
+         "mapeamento_perfil":"ativo",
+         "enderecos":2
+      },
+      {
+         "idUsuarios":3,
+         "nome":"Carla Mendes",
+         "data_nascimento":"1977-09-05",
+         "genero":"F",
+         "email":"carla.mendes@gmail.com",
+         "senha":"senha3",
+         "data_cadastro":"2024-01-17",
+         "mapeamento_perfil":"inativo",
+         "enderecos":3
+      },
+      {
+         "idUsuarios":4,
+         "nome":"Diego Oliveira",
+         "data_nascimento":"1978-04-28",
+         "genero":"M",
+         "email":"diego.oliveira@gmail.com",
+         "senha":"senha4",
+         "data_cadastro":"2024-04-01",
+         "mapeamento_perfil":"ativo",
+         "enderecos":4
+      },
+      {
+         "idUsuarios":5,
+         "nome":"Eduarda Santos",
+         "data_nascimento":"1993-01-23",
+         "genero":"F",
+         "email":"eduarda.santos@gmail.com",
+         "senha":"senha5",
+         "data_cadastro":"2024-02-20",
+         "mapeamento_perfil":"ativo",
+         "enderecos":5
+      },
+      {
+         "idUsuarios":6,
+         "nome":"Felipe Martins",
+         "data_nascimento":"1990-11-12",
+         "genero":"M",
+         "email":"felipe.martins@gmail.com",
+         "senha":"senha6",
+         "data_cadastro":"2024-08-06",
+         "mapeamento_perfil":"ativo",
+         "enderecos":6
+      },
+      {
+         "idUsuarios":7,
+         "nome":"Gabriela Costa",
+         "data_nascimento":"2001-06-04",
+         "genero":"F",
+         "email":"gabriela.costa@gmail.com",
+         "senha":"senha7",
+         "data_cadastro":"2024-07-14",
+         "mapeamento_perfil":"ativo",
+         "enderecos":7
+      },
+      {
+         "idUsuarios":8,
+         "nome":"Henrique Rocha",
+         "data_nascimento":"2004-03-25",
+         "genero":"M",
+         "email":"henrique.rocha@gmail.com",
+         "senha":"senha8",
+         "data_cadastro":"2024-02-27",
+         "mapeamento_perfil":"inativo",
+         "enderecos":8
+      },
+      {
+         "idUsuarios":9,
+         "nome":"Isabela Pereira",
+         "data_nascimento":"2000-12-03",
+         "genero":"F",
+         "email":"isabela.pereira@gmail.com",
+         "senha":"senha9",
+         "data_cadastro":"2024-08-06",
+         "mapeamento_perfil":"inativo",
+         "enderecos":9
+      },
+      {
+         "idUsuarios":10,
+         "nome":"João Silva",
+         "data_nascimento":"1995-06-11",
+         "genero":"F",
+         "email":"joão.silva@gmail.com",
+         "senha":"senha10",
+         "data_cadastro":"2024-09-02",
+         "mapeamento_perfil":"ativo",
+         "enderecos":10
+      },
+      {
+         "idUsuarios":11,
+         "nome":"Karina Gomes",
+         "data_nascimento":"2005-05-23",
+         "genero":"F",
+         "email":"karina.gomes@gmail.com",
+         "senha":"senha11",
+         "data_cadastro":"2024-05-19",
+         "mapeamento_perfil":"ativo",
+         "enderecos":11
+      },
+      {
+         "idUsuarios":12,
+         "nome":"Lucas Almeida",
+         "data_nascimento":"1989-06-25",
+         "genero":"F",
+         "email":"lucas.almeida@gmail.com",
+         "senha":"senha12",
+         "data_cadastro":"2024-02-25",
+         "mapeamento_perfil":"inativo",
+         "enderecos":12
+      },
+      {
+         "idUsuarios":13,
+         "nome":"Mariana Ribeiro",
+         "data_nascimento":"1978-08-04",
+         "genero":"F",
+         "email":"mariana.ribeiro@gmail.com",
+         "senha":"senha13",
+         "data_cadastro":"2024-02-11",
+         "mapeamento_perfil":"ativo",
+         "enderecos":13
+      },
+      {
+         "idUsuarios":14,
+         "nome":"Nicolas Fernandes",
+         "data_nascimento":"1992-04-05",
+         "genero":"F",
+         "email":"nicolas.fernandes@gmail.com",
+         "senha":"senha14",
+         "data_cadastro":"2024-04-02",
+         "mapeamento_perfil":"inativo",
+         "enderecos":14
+      },
+      {
+         "idUsuarios":15,
+         "nome":"Olívia Castro",
+         "data_nascimento":"1992-06-14",
+         "genero":"M",
+         "email":"olívia.castro@gmail.com",
+         "senha":"senha15",
+         "data_cadastro":"2024-01-17",
+         "mapeamento_perfil":"inativo",
+         "enderecos":15
+      },
+      {
+         "idUsuarios":16,
+         "nome":"Paulo Meneghini",
+         "data_nascimento":"1995-07-26",
+         "genero":"F",
+         "email":"paulo.meneghini@gmail.com",
+         "senha":"senha16",
+         "data_cadastro":"2024-06-21",
+         "mapeamento_perfil":"ativo",
+         "enderecos":16
+      },
+      {
+         "idUsuarios":17,
+         "nome":"Rafaela Duarte",
+         "data_nascimento":"2003-08-21",
+         "genero":"M",
+         "email":"rafaela.duarte@gmail.com",
+         "senha":"senha17",
+         "data_cadastro":"2024-05-09",
+         "mapeamento_perfil":"inativo",
+         "enderecos":17
+      },
+      {
+         "idUsuarios":18,
+         "nome":"Samuel Araújo",
+         "data_nascimento":"1994-07-02",
+         "genero":"M",
+         "email":"samuel.araújo@gmail.com",
+         "senha":"senha18",
+         "data_cadastro":"2024-06-22",
+         "mapeamento_perfil":"inativo",
+         "enderecos":18
+      },
+      {
+         "idUsuarios":19,
+         "nome":"Tatiane Moreira",
+         "data_nascimento":"1978-03-06",
+         "genero":"M",
+         "email":"tatiane.moreira@gmail.com",
+         "senha":"senha19",
+         "data_cadastro":"2024-02-22",
+         "mapeamento_perfil":"inativo",
+         "enderecos":19
+      },
+      {
+         "idUsuarios":20,
+         "nome":"Vinícius Carvalho",
+         "data_nascimento":"1999-06-15",
+         "genero":"M",
+         "email":"vinícius.carvalho@gmail.com",
+         "senha":"senha20",
+         "data_cadastro":"2024-03-06",
+         "mapeamento_perfil":"ativo",
+         "enderecos":20
+      }
+   ],
+   "Restaurante":[
+      {
+         "idRestaurante":1,
+         "media_avaliacoes":4.0,
+         "tipo_restaurante":"Japonesa",
+         "nome":"Churrascaria Fogo de Chão",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato1@restaurante.com",
+         "preco_medio":132,
+         "numero_avaliacoes":63,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":2,
+         "media_avaliacoes":4.2,
+         "tipo_restaurante":"Chinesa",
+         "nome":"Pizzaria Bella Napoli",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato2@restaurante.com",
+         "preco_medio":89,
+         "numero_avaliacoes":403,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":3,
+         "media_avaliacoes":4.9,
+         "tipo_restaurante":"Brasileira",
+         "nome":"Sushi House",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato3@restaurante.com",
+         "preco_medio":99,
+         "numero_avaliacoes":472,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":4,
+         "media_avaliacoes":4.0,
+         "tipo_restaurante":"Brasileira",
+         "nome":"Cantina da Nonna",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato4@restaurante.com",
+         "preco_medio":44,
+         "numero_avaliacoes":314,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":5,
+         "media_avaliacoes":4.4,
+         "tipo_restaurante":"Italiana",
+         "nome":"Restaurante Dona Maria",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato5@restaurante.com",
+         "preco_medio":98,
+         "numero_avaliacoes":378,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":6,
+         "media_avaliacoes":4.0,
+         "tipo_restaurante":"Vegana",
+         "nome":"Hamburgueria Prime Burger",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato6@restaurante.com",
+         "preco_medio":108,
+         "numero_avaliacoes":302,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":7,
+         "media_avaliacoes":3.6,
+         "tipo_restaurante":"Fast Food",
+         "nome":"Pastelaria do Zé",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato7@restaurante.com",
+         "preco_medio":96,
+         "numero_avaliacoes":495,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":8,
+         "media_avaliacoes":4.6,
+         "tipo_restaurante":"Italiana",
+         "nome":"Bistrô Parisiense",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato8@restaurante.com",
+         "preco_medio":22,
+         "numero_avaliacoes":77,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":9,
+         "media_avaliacoes":3.9,
+         "tipo_restaurante":"Fast Food",
+         "nome":"Padaria Pão Quente",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato9@restaurante.com",
+         "preco_medio":37,
+         "numero_avaliacoes":201,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":10,
+         "media_avaliacoes":4.2,
+         "tipo_restaurante":"Italiana",
+         "nome":"Vegano Raiz",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato10@restaurante.com",
+         "preco_medio":36,
+         "numero_avaliacoes":373,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":11,
+         "media_avaliacoes":3.7,
+         "tipo_restaurante":"Indiana",
+         "nome":"Tapiocaria Nordestina",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato11@restaurante.com",
+         "preco_medio":70,
+         "numero_avaliacoes":12,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":12,
+         "media_avaliacoes":4.6,
+         "tipo_restaurante":"Brasileira",
+         "nome":"Mexican Grill",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato12@restaurante.com",
+         "preco_medio":62,
+         "numero_avaliacoes":378,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":13,
+         "media_avaliacoes":4.9,
+         "tipo_restaurante":"Vegana",
+         "nome":"China Town Express",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato13@restaurante.com",
+         "preco_medio":33,
+         "numero_avaliacoes":396,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":14,
+         "media_avaliacoes":4.1,
+         "tipo_restaurante":"Chinesa",
+         "nome":"Casa do Açaí",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato14@restaurante.com",
+         "preco_medio":124,
+         "numero_avaliacoes":348,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":15,
+         "media_avaliacoes":4.7,
+         "tipo_restaurante":"Italiana",
+         "nome":"Espetinhos do João",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato15@restaurante.com",
+         "preco_medio":61,
+         "numero_avaliacoes":205,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":16,
+         "media_avaliacoes":4.7,
+         "tipo_restaurante":"Mexicana",
+         "nome":"Peixaria Mar Azul",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato16@restaurante.com",
+         "preco_medio":136,
+         "numero_avaliacoes":132,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":17,
+         "media_avaliacoes":4.6,
+         "tipo_restaurante":"Mexicana",
+         "nome":"Panquecaria da Vovó",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato17@restaurante.com",
+         "preco_medio":110,
+         "numero_avaliacoes":314,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":18,
+         "media_avaliacoes":4.3,
+         "tipo_restaurante":"Fast Food",
+         "nome":"Sorveteria Gelato",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato18@restaurante.com",
+         "preco_medio":58,
+         "numero_avaliacoes":215,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":19,
+         "media_avaliacoes":5.0,
+         "tipo_restaurante":"Brasileira",
+         "nome":"Restaurante Mineirinho",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato19@restaurante.com",
+         "preco_medio":50,
+         "numero_avaliacoes":156,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":20,
+         "media_avaliacoes":3.6,
+         "tipo_restaurante":"Vegana",
+         "nome":"Kebab Istambul",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato20@restaurante.com",
+         "preco_medio":55,
+         "numero_avaliacoes":314,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":21,
+         "media_avaliacoes":4.4,
+         "tipo_restaurante":"Brasileira",
+         "nome":"Restaurante Bom Sabor",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato21@restaurante.com",
+         "preco_medio":80,
+         "numero_avaliacoes":370,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":22,
+         "media_avaliacoes":3.8,
+         "tipo_restaurante":"Fast Food",
+         "nome":"Pizzaria Forno a Lenha",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato22@restaurante.com",
+         "preco_medio":100,
+         "numero_avaliacoes":300,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":23,
+         "media_avaliacoes":4.4,
+         "tipo_restaurante":"Vegana",
+         "nome":"Yakissoba Express",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato23@restaurante.com",
+         "preco_medio":76,
+         "numero_avaliacoes":282,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":24,
+         "media_avaliacoes":3.6,
+         "tipo_restaurante":"Vegana",
+         "nome":"Churrasquinho Gaúcho",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato24@restaurante.com",
+         "preco_medio":62,
+         "numero_avaliacoes":180,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":25,
+         "media_avaliacoes":3.8,
+         "tipo_restaurante":"Japonesa",
+         "nome":"Sanduíches Naturais",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato25@restaurante.com",
+         "preco_medio":141,
+         "numero_avaliacoes":453,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":26,
+         "media_avaliacoes":4.9,
+         "tipo_restaurante":"Chinesa",
+         "nome":"Restaurante Colonial",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato26@restaurante.com",
+         "preco_medio":49,
+         "numero_avaliacoes":250,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":27,
+         "media_avaliacoes":4.6,
+         "tipo_restaurante":"Brasileira",
+         "nome":"Moqueca Baiana",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato27@restaurante.com",
+         "preco_medio":117,
+         "numero_avaliacoes":409,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":28,
+         "media_avaliacoes":4.0,
+         "tipo_restaurante":"Fast Food",
+         "nome":"Frutos do Mar Real",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":true,
+         "email":"contato28@restaurante.com",
+         "preco_medio":117,
+         "numero_avaliacoes":195,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":29,
+         "media_avaliacoes":4.4,
+         "tipo_restaurante":"Chinesa",
+         "nome":"Bar do Alemão",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato29@restaurante.com",
+         "preco_medio":146,
+         "numero_avaliacoes":88,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":30,
+         "media_avaliacoes":4.5,
+         "tipo_restaurante":"Brasileira",
+         "nome":"Comida Caseira da Lúcia",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato30@restaurante.com",
+         "preco_medio":97,
+         "numero_avaliacoes":349,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":31,
+         "media_avaliacoes":4.7,
+         "tipo_restaurante":"Japonesa",
+         "nome":"Temaki Lovers",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato31@restaurante.com",
+         "preco_medio":145,
+         "numero_avaliacoes":164,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":32,
+         "media_avaliacoes":4.0,
+         "tipo_restaurante":"Japonesa",
+         "nome":"Pizza Paulista",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato32@restaurante.com",
+         "preco_medio":33,
+         "numero_avaliacoes":471,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":33,
+         "media_avaliacoes":4.1,
+         "tipo_restaurante":"Chinesa",
+         "nome":"Churrasco na Brasa",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato33@restaurante.com",
+         "preco_medio":115,
+         "numero_avaliacoes":445,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":34,
+         "media_avaliacoes":4.9,
+         "tipo_restaurante":"Indiana",
+         "nome":"Restaurante Italiano Roma",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato34@restaurante.com",
+         "preco_medio":100,
+         "numero_avaliacoes":359,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":35,
+         "media_avaliacoes":4.0,
+         "tipo_restaurante":"Japonesa",
+         "nome":"Tacos & Burritos",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato35@restaurante.com",
+         "preco_medio":59,
+         "numero_avaliacoes":436,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":36,
+         "media_avaliacoes":4.5,
+         "tipo_restaurante":"Chinesa",
+         "nome":"Cantinho Nordestino",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato36@restaurante.com",
+         "preco_medio":20,
+         "numero_avaliacoes":360,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":37,
+         "media_avaliacoes":4.0,
+         "tipo_restaurante":"Brasileira",
+         "nome":"Pastéis da Feira",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato37@restaurante.com",
+         "preco_medio":131,
+         "numero_avaliacoes":455,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":38,
+         "media_avaliacoes":4.0,
+         "tipo_restaurante":"Indiana",
+         "nome":"Hamburgueria Gourmet",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato38@restaurante.com",
+         "preco_medio":101,
+         "numero_avaliacoes":423,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":39,
+         "media_avaliacoes":3.6,
+         "tipo_restaurante":"Francesa",
+         "nome":"Sopa & Cia",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":true,
+         "email":"contato39@restaurante.com",
+         "preco_medio":26,
+         "numero_avaliacoes":79,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":40,
+         "media_avaliacoes":3.9,
+         "tipo_restaurante":"Italiana",
+         "nome":"Tempero da Vó",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato40@restaurante.com",
+         "preco_medio":36,
+         "numero_avaliacoes":297,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":41,
+         "media_avaliacoes":4.2,
+         "tipo_restaurante":"Brasileira",
+         "nome":"Risotteria Milano",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato41@restaurante.com",
+         "preco_medio":131,
+         "numero_avaliacoes":63,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":42,
+         "media_avaliacoes":3.5,
+         "tipo_restaurante":"Fast Food",
+         "nome":"Restaurante Japonês Kyoto",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato42@restaurante.com",
+         "preco_medio":132,
+         "numero_avaliacoes":19,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":43,
+         "media_avaliacoes":3.7,
+         "tipo_restaurante":"Francesa",
+         "nome":"Food Truck Street",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato43@restaurante.com",
+         "preco_medio":66,
+         "numero_avaliacoes":452,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      },
+      {
+         "idRestaurante":44,
+         "media_avaliacoes":3.6,
+         "tipo_restaurante":"Vegana",
+         "nome":"Panificadora Central",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato44@restaurante.com",
+         "preco_medio":137,
+         "numero_avaliacoes":240,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":45,
+         "media_avaliacoes":4.1,
+         "tipo_restaurante":"Japonesa",
+         "nome":"Casa do Churrasco",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato45@restaurante.com",
+         "preco_medio":85,
+         "numero_avaliacoes":413,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":46,
+         "media_avaliacoes":4.6,
+         "tipo_restaurante":"Indiana",
+         "nome":"Pizzaria Napoli",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato46@restaurante.com",
+         "preco_medio":49,
+         "numero_avaliacoes":336,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":47,
+         "media_avaliacoes":4.9,
+         "tipo_restaurante":"Mexicana",
+         "nome":"Doces & Bolos",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão e Dinheiro",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato47@restaurante.com",
+         "preco_medio":102,
+         "numero_avaliacoes":80,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":48,
+         "media_avaliacoes":3.7,
+         "tipo_restaurante":"Indiana",
+         "nome":"Arroz com Feijão",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato48@restaurante.com",
+         "preco_medio":109,
+         "numero_avaliacoes":306,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":49,
+         "media_avaliacoes":4.1,
+         "tipo_restaurante":"Fast Food",
+         "nome":"Restaurante Paulista",
+         "classificacao":"B",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Cartão",
+         "reserva":true,
+         "delivery":false,
+         "email":"contato49@restaurante.com",
+         "preco_medio":63,
+         "numero_avaliacoes":211,
+         "status_funcionamento":"Ativo",
+         "refrada":true
+      },
+      {
+         "idRestaurante":50,
+         "media_avaliacoes":3.7,
+         "tipo_restaurante":"Italiana",
+         "nome":"Sanduícheria 24h",
+         "classificacao":"A",
+         "horario_funcionamento":"10:00-22:00",
+         "forma_pagamento":"Dinheiro",
+         "reserva":false,
+         "delivery":false,
+         "email":"contato50@restaurante.com",
+         "preco_medio":100,
+         "numero_avaliacoes":395,
+         "status_funcionamento":"Ativo",
+         "refrada":false
+      }
+   ],
+   "Avaliacao":[
+      {
+         "idAvaliacao":1,
+         "nota":1,
+         "id_usuario":1,
+         "id_restaurante":9,
+         "timestamp":"2024-08-20 17:20:00"
+      },
+      {
+         "idAvaliacao":2,
+         "nota":4,
+         "id_usuario":1,
+         "id_restaurante":13,
+         "timestamp":"2024-02-11 15:55:00"
+      },
+      {
+         "idAvaliacao":3,
+         "nota":2,
+         "id_usuario":1,
+         "id_restaurante":23,
+         "timestamp":"2024-07-26 13:22:00"
+      },
+      {
+         "idAvaliacao":4,
+         "nota":3,
+         "id_usuario":1,
+         "id_restaurante":10,
+         "timestamp":"2024-04-24 19:33:00"
+      },
+      {
+         "idAvaliacao":5,
+         "nota":5,
+         "id_usuario":1,
+         "id_restaurante":24,
+         "timestamp":"2024-04-24 18:22:00"
+      },
+      {
+         "idAvaliacao":6,
+         "nota":4,
+         "id_usuario":1,
+         "id_restaurante":17,
+         "timestamp":"2024-02-15 19:21:00"
+      },
+      {
+         "idAvaliacao":7,
+         "nota":2,
+         "id_usuario":1,
+         "id_restaurante":29,
+         "timestamp":"2024-09-10 14:52:00"
+      },
+      {
+         "idAvaliacao":8,
+         "nota":4,
+         "id_usuario":1,
+         "id_restaurante":33,
+         "timestamp":"2024-06-24 23:11:00"
+      },
+      {
+         "idAvaliacao":9,
+         "nota":5,
+         "id_usuario":1,
+         "id_restaurante":22,
+         "timestamp":"2024-05-12 12:14:00"
+      },
+      {
+         "idAvaliacao":10,
+         "nota":4,
+         "id_usuario":1,
+         "id_restaurante":43,
+         "timestamp":"2024-01-28 12:46:00"
+      },
+      {
+         "idAvaliacao":11,
+         "nota":2,
+         "id_usuario":1,
+         "id_restaurante":31,
+         "timestamp":"2024-09-19 23:52:00"
+      },
+      {
+         "idAvaliacao":12,
+         "nota":5,
+         "id_usuario":1,
+         "id_restaurante":45,
+         "timestamp":"2024-06-25 15:38:00"
+      },
+      {
+         "idAvaliacao":13,
+         "nota":3,
+         "id_usuario":2,
+         "id_restaurante":49,
+         "timestamp":"2024-03-18 14:34:00"
+      },
+      {
+         "idAvaliacao":14,
+         "nota":3,
+         "id_usuario":2,
+         "id_restaurante":40,
+         "timestamp":"2024-04-11 18:54:00"
+      },
+      {
+         "idAvaliacao":15,
+         "nota":1,
+         "id_usuario":2,
+         "id_restaurante":15,
+         "timestamp":"2024-04-24 19:54:00"
+      },
+      {
+         "idAvaliacao":16,
+         "nota":4,
+         "id_usuario":2,
+         "id_restaurante":4,
+         "timestamp":"2024-01-17 22:26:00"
+      },
+      {
+         "idAvaliacao":17,
+         "nota":2,
+         "id_usuario":2,
+         "id_restaurante":39,
+         "timestamp":"2024-06-26 13:38:00"
+      },
+      {
+         "idAvaliacao":18,
+         "nota":2,
+         "id_usuario":2,
+         "id_restaurante":19,
+         "timestamp":"2024-08-25 12:32:00"
+      },
+      {
+         "idAvaliacao":19,
+         "nota":5,
+         "id_usuario":2,
+         "id_restaurante":2,
+         "timestamp":"2024-06-22 17:50:00"
+      },
+      {
+         "idAvaliacao":20,
+         "nota":1,
+         "id_usuario":3,
+         "id_restaurante":44,
+         "timestamp":"2024-06-16 18:51:00"
+      },
+      {
+         "idAvaliacao":21,
+         "nota":1,
+         "id_usuario":3,
+         "id_restaurante":3,
+         "timestamp":"2024-04-15 11:57:00"
+      },
+      {
+         "idAvaliacao":22,
+         "nota":1,
+         "id_usuario":3,
+         "id_restaurante":45,
+         "timestamp":"2024-04-24 11:53:00"
+      },
+      {
+         "idAvaliacao":23,
+         "nota":5,
+         "id_usuario":3,
+         "id_restaurante":49,
+         "timestamp":"2024-09-16 19:57:00"
+      },
+      {
+         "idAvaliacao":24,
+         "nota":5,
+         "id_usuario":3,
+         "id_restaurante":36,
+         "timestamp":"2024-08-10 15:52:00"
+      },
+      {
+         "idAvaliacao":25,
+         "nota":2,
+         "id_usuario":3,
+         "id_restaurante":19,
+         "timestamp":"2024-09-16 12:44:00"
+      },
+      {
+         "idAvaliacao":26,
+         "nota":1,
+         "id_usuario":3,
+         "id_restaurante":21,
+         "timestamp":"2024-01-11 20:52:00"
+      },
+      {
+         "idAvaliacao":27,
+         "nota":5,
+         "id_usuario":4,
+         "id_restaurante":13,
+         "timestamp":"2024-05-22 23:26:00"
+      },
+      {
+         "idAvaliacao":28,
+         "nota":2,
+         "id_usuario":4,
+         "id_restaurante":23,
+         "timestamp":"2024-08-21 20:49:00"
+      },
+      {
+         "idAvaliacao":29,
+         "nota":2,
+         "id_usuario":4,
+         "id_restaurante":16,
+         "timestamp":"2024-09-19 17:36:00"
+      },
+      {
+         "idAvaliacao":30,
+         "nota":1,
+         "id_usuario":4,
+         "id_restaurante":38,
+         "timestamp":"2024-05-11 20:31:00"
+      },
+      {
+         "idAvaliacao":31,
+         "nota":1,
+         "id_usuario":4,
+         "id_restaurante":18,
+         "timestamp":"2024-04-20 14:10:00"
+      },
+      {
+         "idAvaliacao":32,
+         "nota":1,
+         "id_usuario":4,
+         "id_restaurante":29,
+         "timestamp":"2024-09-15 23:25:00"
+      },
+      {
+         "idAvaliacao":33,
+         "nota":1,
+         "id_usuario":4,
+         "id_restaurante":33,
+         "timestamp":"2024-05-18 11:20:00"
+      },
+      {
+         "idAvaliacao":34,
+         "nota":2,
+         "id_usuario":4,
+         "id_restaurante":41,
+         "timestamp":"2024-05-25 17:59:00"
+      },
+      {
+         "idAvaliacao":35,
+         "nota":2,
+         "id_usuario":4,
+         "id_restaurante":35,
+         "timestamp":"2024-02-20 16:10:00"
+      },
+      {
+         "idAvaliacao":36,
+         "nota":2,
+         "id_usuario":4,
+         "id_restaurante":47,
+         "timestamp":"2024-02-23 20:12:00"
+      },
+      {
+         "idAvaliacao":37,
+         "nota":1,
+         "id_usuario":4,
+         "id_restaurante":40,
+         "timestamp":"2024-03-23 18:16:00"
+      },
+      {
+         "idAvaliacao":38,
+         "nota":4,
+         "id_usuario":5,
+         "id_restaurante":29,
+         "timestamp":"2024-05-17 16:58:00"
+      },
+      {
+         "idAvaliacao":39,
+         "nota":5,
+         "id_usuario":5,
+         "id_restaurante":12,
+         "timestamp":"2024-03-18 13:11:00"
+      },
+      {
+         "idAvaliacao":40,
+         "nota":5,
+         "id_usuario":5,
+         "id_restaurante":36,
+         "timestamp":"2024-04-19 21:16:00"
+      },
+      {
+         "idAvaliacao":41,
+         "nota":3,
+         "id_usuario":5,
+         "id_restaurante":21,
+         "timestamp":"2024-06-25 11:52:00"
+      },
+      {
+         "idAvaliacao":42,
+         "nota":3,
+         "id_usuario":5,
+         "id_restaurante":37,
+         "timestamp":"2024-06-22 19:43:00"
+      },
+      {
+         "idAvaliacao":43,
+         "nota":4,
+         "id_usuario":6,
+         "id_restaurante":32,
+         "timestamp":"2024-03-13 19:25:00"
+      },
+      {
+         "idAvaliacao":44,
+         "nota":5,
+         "id_usuario":6,
+         "id_restaurante":50,
+         "timestamp":"2024-04-11 16:22:00"
+      },
+      {
+         "idAvaliacao":45,
+         "nota":1,
+         "id_usuario":6,
+         "id_restaurante":29,
+         "timestamp":"2024-06-11 18:31:00"
+      },
+      {
+         "idAvaliacao":46,
+         "nota":5,
+         "id_usuario":6,
+         "id_restaurante":20,
+         "timestamp":"2024-09-17 16:31:00"
+      },
+      {
+         "idAvaliacao":47,
+         "nota":2,
+         "id_usuario":6,
+         "id_restaurante":11,
+         "timestamp":"2024-08-22 13:18:00"
+      },
+      {
+         "idAvaliacao":48,
+         "nota":1,
+         "id_usuario":6,
+         "id_restaurante":49,
+         "timestamp":"2024-03-21 12:46:00"
+      },
+      {
+         "idAvaliacao":49,
+         "nota":5,
+         "id_usuario":6,
+         "id_restaurante":6,
+         "timestamp":"2024-06-17 19:32:00"
+      },
+      {
+         "idAvaliacao":50,
+         "nota":3,
+         "id_usuario":6,
+         "id_restaurante":4,
+         "timestamp":"2024-09-21 22:56:00"
+      },
+      {
+         "idAvaliacao":51,
+         "nota":4,
+         "id_usuario":6,
+         "id_restaurante":1,
+         "timestamp":"2024-03-26 22:29:00"
+      },
+      {
+         "idAvaliacao":52,
+         "nota":4,
+         "id_usuario":6,
+         "id_restaurante":17,
+         "timestamp":"2024-01-14 20:24:00"
+      },
+      {
+         "idAvaliacao":53,
+         "nota":1,
+         "id_usuario":6,
+         "id_restaurante":38,
+         "timestamp":"2024-05-23 14:21:00"
+      },
+      {
+         "idAvaliacao":54,
+         "nota":2,
+         "id_usuario":7,
+         "id_restaurante":10,
+         "timestamp":"2024-01-17 17:48:00"
+      },
+      {
+         "idAvaliacao":55,
+         "nota":2,
+         "id_usuario":7,
+         "id_restaurante":49,
+         "timestamp":"2024-07-18 18:18:00"
+      },
+      {
+         "idAvaliacao":56,
+         "nota":5,
+         "id_usuario":7,
+         "id_restaurante":47,
+         "timestamp":"2024-01-24 19:47:00"
+      },
+      {
+         "idAvaliacao":57,
+         "nota":2,
+         "id_usuario":7,
+         "id_restaurante":19,
+         "timestamp":"2024-01-12 19:38:00"
+      },
+      {
+         "idAvaliacao":58,
+         "nota":1,
+         "id_usuario":7,
+         "id_restaurante":13,
+         "timestamp":"2024-08-22 11:28:00"
+      },
+      {
+         "idAvaliacao":59,
+         "nota":1,
+         "id_usuario":7,
+         "id_restaurante":11,
+         "timestamp":"2024-05-21 18:12:00"
+      },
+      {
+         "idAvaliacao":60,
+         "nota":2,
+         "id_usuario":7,
+         "id_restaurante":18,
+         "timestamp":"2024-03-28 12:58:00"
+      },
+      {
+         "idAvaliacao":61,
+         "nota":5,
+         "id_usuario":7,
+         "id_restaurante":42,
+         "timestamp":"2024-02-20 13:15:00"
+      },
+      {
+         "idAvaliacao":62,
+         "nota":1,
+         "id_usuario":7,
+         "id_restaurante":40,
+         "timestamp":"2024-06-13 23:30:00"
+      },
+      {
+         "idAvaliacao":63,
+         "nota":2,
+         "id_usuario":8,
+         "id_restaurante":35,
+         "timestamp":"2024-05-20 13:25:00"
+      },
+      {
+         "idAvaliacao":64,
+         "nota":5,
+         "id_usuario":8,
+         "id_restaurante":12,
+         "timestamp":"2024-06-24 11:43:00"
+      },
+      {
+         "idAvaliacao":65,
+         "nota":4,
+         "id_usuario":8,
+         "id_restaurante":34,
+         "timestamp":"2024-01-24 23:24:00"
+      },
+      {
+         "idAvaliacao":66,
+         "nota":3,
+         "id_usuario":8,
+         "id_restaurante":2,
+         "timestamp":"2024-06-10 15:24:00"
+      },
+      {
+         "idAvaliacao":67,
+         "nota":5,
+         "id_usuario":8,
+         "id_restaurante":25,
+         "timestamp":"2024-03-16 16:37:00"
+      },
+      {
+         "idAvaliacao":68,
+         "nota":4,
+         "id_usuario":9,
+         "id_restaurante":41,
+         "timestamp":"2024-02-26 13:10:00"
+      },
+      {
+         "idAvaliacao":69,
+         "nota":2,
+         "id_usuario":9,
+         "id_restaurante":32,
+         "timestamp":"2024-05-28 22:38:00"
+      },
+      {
+         "idAvaliacao":70,
+         "nota":5,
+         "id_usuario":9,
+         "id_restaurante":22,
+         "timestamp":"2024-08-19 18:46:00"
+      },
+      {
+         "idAvaliacao":71,
+         "nota":4,
+         "id_usuario":9,
+         "id_restaurante":30,
+         "timestamp":"2024-06-17 23:22:00"
+      },
+      {
+         "idAvaliacao":72,
+         "nota":1,
+         "id_usuario":9,
+         "id_restaurante":29,
+         "timestamp":"2024-07-17 13:27:00"
+      },
+      {
+         "idAvaliacao":73,
+         "nota":1,
+         "id_usuario":9,
+         "id_restaurante":19,
+         "timestamp":"2024-08-18 23:25:00"
+      },
+      {
+         "idAvaliacao":74,
+         "nota":5,
+         "id_usuario":9,
+         "id_restaurante":48,
+         "timestamp":"2024-05-25 23:34:00"
+      },
+      {
+         "idAvaliacao":75,
+         "nota":1,
+         "id_usuario":9,
+         "id_restaurante":21,
+         "timestamp":"2024-01-23 13:44:00"
+      },
+      {
+         "idAvaliacao":76,
+         "nota":3,
+         "id_usuario":9,
+         "id_restaurante":26,
+         "timestamp":"2024-08-28 21:52:00"
+      },
+      {
+         "idAvaliacao":77,
+         "nota":3,
+         "id_usuario":9,
+         "id_restaurante":47,
+         "timestamp":"2024-03-21 16:50:00"
+      },
+      {
+         "idAvaliacao":78,
+         "nota":4,
+         "id_usuario":10,
+         "id_restaurante":15,
+         "timestamp":"2024-06-27 17:16:00"
+      },
+      {
+         "idAvaliacao":79,
+         "nota":2,
+         "id_usuario":10,
+         "id_restaurante":18,
+         "timestamp":"2024-04-21 10:52:00"
+      },
+      {
+         "idAvaliacao":80,
+         "nota":3,
+         "id_usuario":10,
+         "id_restaurante":42,
+         "timestamp":"2024-05-20 21:31:00"
+      },
+      {
+         "idAvaliacao":81,
+         "nota":4,
+         "id_usuario":10,
+         "id_restaurante":46,
+         "timestamp":"2024-07-21 19:23:00"
+      },
+      {
+         "idAvaliacao":82,
+         "nota":4,
+         "id_usuario":10,
+         "id_restaurante":21,
+         "timestamp":"2024-06-18 14:49:00"
+      },
+      {
+         "idAvaliacao":83,
+         "nota":4,
+         "id_usuario":10,
+         "id_restaurante":26,
+         "timestamp":"2024-02-16 20:32:00"
+      },
+      {
+         "idAvaliacao":84,
+         "nota":5,
+         "id_usuario":11,
+         "id_restaurante":17,
+         "timestamp":"2024-08-25 21:27:00"
+      },
+      {
+         "idAvaliacao":85,
+         "nota":4,
+         "id_usuario":11,
+         "id_restaurante":40,
+         "timestamp":"2024-03-18 11:31:00"
+      },
+      {
+         "idAvaliacao":86,
+         "nota":1,
+         "id_usuario":11,
+         "id_restaurante":24,
+         "timestamp":"2024-07-11 10:13:00"
+      },
+      {
+         "idAvaliacao":87,
+         "nota":2,
+         "id_usuario":11,
+         "id_restaurante":13,
+         "timestamp":"2024-04-27 21:50:00"
+      },
+      {
+         "idAvaliacao":88,
+         "nota":2,
+         "id_usuario":11,
+         "id_restaurante":31,
+         "timestamp":"2024-01-17 19:47:00"
+      },
+      {
+         "idAvaliacao":89,
+         "nota":5,
+         "id_usuario":11,
+         "id_restaurante":19,
+         "timestamp":"2024-02-17 18:32:00"
+      },
+      {
+         "idAvaliacao":90,
+         "nota":4,
+         "id_usuario":11,
+         "id_restaurante":15,
+         "timestamp":"2024-05-12 15:25:00"
+      },
+      {
+         "idAvaliacao":91,
+         "nota":5,
+         "id_usuario":11,
+         "id_restaurante":10,
+         "timestamp":"2024-09-28 16:38:00"
+      },
+      {
+         "idAvaliacao":92,
+         "nota":2,
+         "id_usuario":11,
+         "id_restaurante":38,
+         "timestamp":"2024-02-21 20:29:00"
+      },
+      {
+         "idAvaliacao":93,
+         "nota":2,
+         "id_usuario":12,
+         "id_restaurante":43,
+         "timestamp":"2024-01-10 22:15:00"
+      },
+      {
+         "idAvaliacao":94,
+         "nota":4,
+         "id_usuario":12,
+         "id_restaurante":45,
+         "timestamp":"2024-08-16 11:18:00"
+      },
+      {
+         "idAvaliacao":95,
+         "nota":4,
+         "id_usuario":12,
+         "id_restaurante":50,
+         "timestamp":"2024-07-13 19:30:00"
+      },
+      {
+         "idAvaliacao":96,
+         "nota":3,
+         "id_usuario":12,
+         "id_restaurante":7,
+         "timestamp":"2024-09-27 13:31:00"
+      },
+      {
+         "idAvaliacao":97,
+         "nota":3,
+         "id_usuario":12,
+         "id_restaurante":15,
+         "timestamp":"2024-08-23 21:50:00"
+      },
+      {
+         "idAvaliacao":98,
+         "nota":5,
+         "id_usuario":12,
+         "id_restaurante":37,
+         "timestamp":"2024-07-18 11:13:00"
+      },
+      {
+         "idAvaliacao":99,
+         "nota":1,
+         "id_usuario":12,
+         "id_restaurante":24,
+         "timestamp":"2024-08-19 17:49:00"
+      },
+      {
+         "idAvaliacao":100,
+         "nota":2,
+         "id_usuario":12,
+         "id_restaurante":47,
+         "timestamp":"2024-07-16 19:43:00"
+      },
+      {
+         "idAvaliacao":101,
+         "nota":4,
+         "id_usuario":12,
+         "id_restaurante":8,
+         "timestamp":"2024-06-16 14:32:00"
+      },
+      {
+         "idAvaliacao":102,
+         "nota":3,
+         "id_usuario":12,
+         "id_restaurante":46,
+         "timestamp":"2024-01-16 20:41:00"
+      },
+      {
+         "idAvaliacao":103,
+         "nota":1,
+         "id_usuario":12,
+         "id_restaurante":30,
+         "timestamp":"2024-06-27 15:43:00"
+      },
+      {
+         "idAvaliacao":104,
+         "nota":4,
+         "id_usuario":12,
+         "id_restaurante":21,
+         "timestamp":"2024-02-20 15:57:00"
+      },
+      {
+         "idAvaliacao":105,
+         "nota":4,
+         "id_usuario":13,
+         "id_restaurante":31,
+         "timestamp":"2024-05-25 23:28:00"
+      },
+      {
+         "idAvaliacao":106,
+         "nota":3,
+         "id_usuario":13,
+         "id_restaurante":48,
+         "timestamp":"2024-05-21 14:34:00"
+      },
+      {
+         "idAvaliacao":107,
+         "nota":2,
+         "id_usuario":13,
+         "id_restaurante":17,
+         "timestamp":"2024-05-23 14:56:00"
+      },
+      {
+         "idAvaliacao":108,
+         "nota":2,
+         "id_usuario":13,
+         "id_restaurante":3,
+         "timestamp":"2024-06-26 13:48:00"
+      },
+      {
+         "idAvaliacao":109,
+         "nota":4,
+         "id_usuario":13,
+         "id_restaurante":14,
+         "timestamp":"2024-02-16 13:16:00"
+      },
+      {
+         "idAvaliacao":110,
+         "nota":1,
+         "id_usuario":13,
+         "id_restaurante":33,
+         "timestamp":"2024-06-13 16:41:00"
+      },
+      {
+         "idAvaliacao":111,
+         "nota":1,
+         "id_usuario":14,
+         "id_restaurante":19,
+         "timestamp":"2024-05-12 15:18:00"
+      },
+      {
+         "idAvaliacao":112,
+         "nota":3,
+         "id_usuario":14,
+         "id_restaurante":6,
+         "timestamp":"2024-01-27 17:39:00"
+      },
+      {
+         "idAvaliacao":113,
+         "nota":3,
+         "id_usuario":14,
+         "id_restaurante":9,
+         "timestamp":"2024-05-24 15:56:00"
+      },
+      {
+         "idAvaliacao":114,
+         "nota":5,
+         "id_usuario":14,
+         "id_restaurante":45,
+         "timestamp":"2024-09-11 10:15:00"
+      },
+      {
+         "idAvaliacao":115,
+         "nota":4,
+         "id_usuario":14,
+         "id_restaurante":44,
+         "timestamp":"2024-07-15 13:42:00"
+      },
+      {
+         "idAvaliacao":116,
+         "nota":3,
+         "id_usuario":14,
+         "id_restaurante":28,
+         "timestamp":"2024-09-11 10:51:00"
+      },
+      {
+         "idAvaliacao":117,
+         "nota":1,
+         "id_usuario":14,
+         "id_restaurante":14,
+         "timestamp":"2024-03-25 22:36:00"
+      },
+      {
+         "idAvaliacao":118,
+         "nota":4,
+         "id_usuario":14,
+         "id_restaurante":27,
+         "timestamp":"2024-03-25 11:28:00"
+      },
+      {
+         "idAvaliacao":119,
+         "nota":2,
+         "id_usuario":15,
+         "id_restaurante":36,
+         "timestamp":"2024-09-19 22:55:00"
+      },
+      {
+         "idAvaliacao":120,
+         "nota":3,
+         "id_usuario":15,
+         "id_restaurante":5,
+         "timestamp":"2024-01-25 19:47:00"
+      },
+      {
+         "idAvaliacao":121,
+         "nota":5,
+         "id_usuario":15,
+         "id_restaurante":45,
+         "timestamp":"2024-04-23 10:17:00"
+      },
+      {
+         "idAvaliacao":122,
+         "nota":5,
+         "id_usuario":15,
+         "id_restaurante":3,
+         "timestamp":"2024-05-13 16:13:00"
+      },
+      {
+         "idAvaliacao":123,
+         "nota":4,
+         "id_usuario":15,
+         "id_restaurante":32,
+         "timestamp":"2024-07-19 14:42:00"
+      },
+      {
+         "idAvaliacao":124,
+         "nota":4,
+         "id_usuario":15,
+         "id_restaurante":8,
+         "timestamp":"2024-08-22 13:38:00"
+      },
+      {
+         "idAvaliacao":125,
+         "nota":4,
+         "id_usuario":15,
+         "id_restaurante":7,
+         "timestamp":"2024-01-17 18:36:00"
+      },
+      {
+         "idAvaliacao":126,
+         "nota":5,
+         "id_usuario":15,
+         "id_restaurante":25,
+         "timestamp":"2024-03-23 21:20:00"
+      },
+      {
+         "idAvaliacao":127,
+         "nota":4,
+         "id_usuario":15,
+         "id_restaurante":12,
+         "timestamp":"2024-01-13 16:58:00"
+      },
+      {
+         "idAvaliacao":128,
+         "nota":1,
+         "id_usuario":15,
+         "id_restaurante":42,
+         "timestamp":"2024-01-19 12:23:00"
+      },
+      {
+         "idAvaliacao":129,
+         "nota":4,
+         "id_usuario":15,
+         "id_restaurante":28,
+         "timestamp":"2024-06-27 10:35:00"
+      },
+      {
+         "idAvaliacao":130,
+         "nota":5,
+         "id_usuario":16,
+         "id_restaurante":23,
+         "timestamp":"2024-01-26 11:41:00"
+      },
+      {
+         "idAvaliacao":131,
+         "nota":4,
+         "id_usuario":16,
+         "id_restaurante":13,
+         "timestamp":"2024-01-26 21:30:00"
+      },
+      {
+         "idAvaliacao":132,
+         "nota":2,
+         "id_usuario":16,
+         "id_restaurante":17,
+         "timestamp":"2024-06-12 21:21:00"
+      },
+      {
+         "idAvaliacao":133,
+         "nota":1,
+         "id_usuario":16,
+         "id_restaurante":49,
+         "timestamp":"2024-01-16 15:35:00"
+      },
+      {
+         "idAvaliacao":134,
+         "nota":3,
+         "id_usuario":16,
+         "id_restaurante":28,
+         "timestamp":"2024-04-22 11:40:00"
+      },
+      {
+         "idAvaliacao":135,
+         "nota":5,
+         "id_usuario":16,
+         "id_restaurante":38,
+         "timestamp":"2024-01-16 22:28:00"
+      },
+      {
+         "idAvaliacao":136,
+         "nota":2,
+         "id_usuario":16,
+         "id_restaurante":8,
+         "timestamp":"2024-06-22 22:32:00"
+      },
+      {
+         "idAvaliacao":137,
+         "nota":4,
+         "id_usuario":16,
+         "id_restaurante":3,
+         "timestamp":"2024-06-18 18:29:00"
+      },
+      {
+         "idAvaliacao":138,
+         "nota":3,
+         "id_usuario":16,
+         "id_restaurante":12,
+         "timestamp":"2024-09-18 14:35:00"
+      },
+      {
+         "idAvaliacao":139,
+         "nota":1,
+         "id_usuario":16,
+         "id_restaurante":2,
+         "timestamp":"2024-04-26 15:22:00"
+      },
+      {
+         "idAvaliacao":140,
+         "nota":5,
+         "id_usuario":16,
+         "id_restaurante":31,
+         "timestamp":"2024-02-12 18:29:00"
+      },
+      {
+         "idAvaliacao":141,
+         "nota":1,
+         "id_usuario":17,
+         "id_restaurante":1,
+         "timestamp":"2024-06-21 18:35:00"
+      },
+      {
+         "idAvaliacao":142,
+         "nota":5,
+         "id_usuario":17,
+         "id_restaurante":35,
+         "timestamp":"2024-07-25 11:32:00"
+      },
+      {
+         "idAvaliacao":143,
+         "nota":5,
+         "id_usuario":17,
+         "id_restaurante":24,
+         "timestamp":"2024-03-18 15:10:00"
+      },
+      {
+         "idAvaliacao":144,
+         "nota":5,
+         "id_usuario":17,
+         "id_restaurante":17,
+         "timestamp":"2024-02-21 11:42:00"
+      },
+      {
+         "idAvaliacao":145,
+         "nota":4,
+         "id_usuario":17,
+         "id_restaurante":12,
+         "timestamp":"2024-04-12 22:45:00"
+      },
+      {
+         "idAvaliacao":146,
+         "nota":5,
+         "id_usuario":18,
+         "id_restaurante":30,
+         "timestamp":"2024-04-10 13:18:00"
+      },
+      {
+         "idAvaliacao":147,
+         "nota":5,
+         "id_usuario":18,
+         "id_restaurante":43,
+         "timestamp":"2024-08-28 23:37:00"
+      },
+      {
+         "idAvaliacao":148,
+         "nota":3,
+         "id_usuario":18,
+         "id_restaurante":11,
+         "timestamp":"2024-06-28 13:42:00"
+      },
+      {
+         "idAvaliacao":149,
+         "nota":2,
+         "id_usuario":18,
+         "id_restaurante":16,
+         "timestamp":"2024-03-14 18:24:00"
+      },
+      {
+         "idAvaliacao":150,
+         "nota":2,
+         "id_usuario":18,
+         "id_restaurante":44,
+         "timestamp":"2024-01-26 15:24:00"
+      },
+      {
+         "idAvaliacao":151,
+         "nota":4,
+         "id_usuario":18,
+         "id_restaurante":26,
+         "timestamp":"2024-01-27 19:49:00"
+      },
+      {
+         "idAvaliacao":152,
+         "nota":5,
+         "id_usuario":18,
+         "id_restaurante":18,
+         "timestamp":"2024-03-12 13:22:00"
+      },
+      {
+         "idAvaliacao":153,
+         "nota":4,
+         "id_usuario":18,
+         "id_restaurante":33,
+         "timestamp":"2024-09-22 11:24:00"
+      },
+      {
+         "idAvaliacao":154,
+         "nota":5,
+         "id_usuario":18,
+         "id_restaurante":19,
+         "timestamp":"2024-08-16 19:55:00"
+      },
+      {
+         "idAvaliacao":155,
+         "nota":4,
+         "id_usuario":18,
+         "id_restaurante":3,
+         "timestamp":"2024-02-12 17:35:00"
+      },
+      {
+         "idAvaliacao":156,
+         "nota":3,
+         "id_usuario":18,
+         "id_restaurante":39,
+         "timestamp":"2024-05-14 22:53:00"
+      },
+      {
+         "idAvaliacao":157,
+         "nota":4,
+         "id_usuario":19,
+         "id_restaurante":24,
+         "timestamp":"2024-07-17 11:23:00"
+      },
+      {
+         "idAvaliacao":158,
+         "nota":3,
+         "id_usuario":19,
+         "id_restaurante":10,
+         "timestamp":"2024-09-12 10:20:00"
+      },
+      {
+         "idAvaliacao":159,
+         "nota":3,
+         "id_usuario":19,
+         "id_restaurante":25,
+         "timestamp":"2024-05-16 23:14:00"
+      },
+      {
+         "idAvaliacao":160,
+         "nota":1,
+         "id_usuario":19,
+         "id_restaurante":44,
+         "timestamp":"2024-05-27 23:13:00"
+      },
+      {
+         "idAvaliacao":161,
+         "nota":5,
+         "id_usuario":19,
+         "id_restaurante":23,
+         "timestamp":"2024-07-26 14:25:00"
+      },
+      {
+         "idAvaliacao":162,
+         "nota":4,
+         "id_usuario":19,
+         "id_restaurante":17,
+         "timestamp":"2024-04-20 21:17:00"
+      },
+      {
+         "idAvaliacao":163,
+         "nota":5,
+         "id_usuario":19,
+         "id_restaurante":49,
+         "timestamp":"2024-08-17 18:10:00"
+      },
+      {
+         "idAvaliacao":164,
+         "nota":2,
+         "id_usuario":20,
+         "id_restaurante":42,
+         "timestamp":"2024-02-13 17:20:00"
+      },
+      {
+         "idAvaliacao":165,
+         "nota":3,
+         "id_usuario":20,
+         "id_restaurante":34,
+         "timestamp":"2024-05-23 20:30:00"
+      },
+      {
+         "idAvaliacao":166,
+         "nota":3,
+         "id_usuario":20,
+         "id_restaurante":35,
+         "timestamp":"2024-06-22 12:54:00"
+      },
+      {
+         "idAvaliacao":167,
+         "nota":2,
+         "id_usuario":20,
+         "id_restaurante":31,
+         "timestamp":"2024-01-26 22:40:00"
+      },
+      {
+         "idAvaliacao":168,
+         "nota":4,
+         "id_usuario":20,
+         "id_restaurante":44,
+         "timestamp":"2024-04-16 18:44:00"
+      },
+      {
+         "idAvaliacao":169,
+         "nota":4,
+         "id_usuario":20,
+         "id_restaurante":9,
+         "timestamp":"2024-03-11 19:37:00"
+      },
+      {
+         "idAvaliacao":170,
+         "nota":5,
+         "id_usuario":20,
+         "id_restaurante":1,
+         "timestamp":"2024-01-12 20:49:00"
+      },
+      {
+         "idAvaliacao":171,
+         "nota":2,
+         "id_usuario":20,
+         "id_restaurante":21,
+         "timestamp":"2024-07-13 18:47:00"
+      },
+      {
+         "idAvaliacao":172,
+         "nota":2,
+         "id_usuario":20,
+         "id_restaurante":45,
+         "timestamp":"2024-01-28 17:57:00"
+      },
+      {
+         "idAvaliacao":173,
+         "nota":2,
+         "id_usuario":20,
+         "id_restaurante":6,
+         "timestamp":"2024-08-19 17:33:00"
+      }
+   ]
+}
