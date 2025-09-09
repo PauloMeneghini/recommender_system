@@ -3,7 +3,6 @@ import numpy as np
 from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
 import faiss
 import json
-from fastapi import FastAPI
 from flask import Flask
 
 app = Flask(__name__)
