@@ -4,10 +4,11 @@ from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
 import faiss
 import json
 from fastapi import FastAPI
+from flask import Flask
 
-app = FastAPI()
+app = Flask(__name__)
 
-@app.get("/find/{user_id}")
+@app.route("/find/<user_id>", methods=['GET'])
 def find_restaurant(user_id):
     # --- Mock ---
     with open('data.json', 'r') as file:
@@ -98,3 +99,6 @@ def find_restaurant(user_id):
             "total_restaurants": len(recommended_restaurants),
             "restaurants": recommended_restaurants
         }
+
+if __name__ == '__main__':
+    app.run(debug=True)
