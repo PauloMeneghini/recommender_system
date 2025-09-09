@@ -8,6 +8,10 @@ from flask import Flask
 
 app = Flask(__name__)
 
+@app.route("/")
+def ping():
+    return "It's works"
+
 @app.route("/find/<user_id>", methods=['GET'])
 def find_restaurant(user_id):
     # --- Mock ---
